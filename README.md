@@ -1,4 +1,4 @@
-# Temp Chat — ephemeral chat rooms
+# Temporary  Chat Room
 
 A modern temporary chat-room web app. Create a room, share a link, talk, and
 leave nothing behind: no accounts, no history, no database.
