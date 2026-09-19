@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+
+# Build output
+dist
+dist-ssr
+*.local
+
+# Test output
+coverage
+
+# Environment secrets (never commit real values)
+.env
+.env.*
+!.env.example
+
+# OpenCode / agent skill files (official upstream skill lives here, not app source)
+.opencode/
+.agent/
+.claude/skills/
+.agents/skills/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# screenshots (local captures, never commit)
+src/screenshot/
+screenshots/
+**/screenshots/
+**/screenshot/
+
